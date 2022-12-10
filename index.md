@@ -5,7 +5,7 @@
 ### Python Projects
 
 [Bio Diversity](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bio-div-cover.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
