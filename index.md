@@ -8,7 +8,7 @@
 <img src="images/bio-div-cover.png?raw=true"/>
 
 ---
-[Internet Session](/sample_page)
+[Internet Session](/internet_session)
 <img src="images/port-internet-proj.png?raw=true"/>
 
 ---
