@@ -11,12 +11,12 @@
 [Internet Session](/internet_session)
 <img src="images/port-internet-proj.png?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+### SQL Queries (Stratascratch)
 
+[View Queries](/sql_page)
+<img src="images/sql-cover.png?raw=true"/>
 
 ---
 
