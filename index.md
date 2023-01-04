@@ -8,7 +8,7 @@
 <img src="images/bio-div-cover.png?raw=true"/>
 
 ---
-[Internet Session](/internet_session)
+[Internet Session](https://github.com/CallMeDonut/internet-session-project)
 <img src="images/port-internet-proj.png?raw=true"/>
 
 
