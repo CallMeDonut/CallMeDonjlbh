@@ -1,5 +1,5 @@
 ## Portfolio
----
+
 [Certificate (stated in resume)](/pdf/dontesliger_certificate.pdf)
 
 ---
