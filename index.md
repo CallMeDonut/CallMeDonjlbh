@@ -4,7 +4,7 @@
 
 ### Python Projects
 
-[Bio Diversity](/sample_page)
+[Bio Diversity](https://github.com/CallMeDonut/Bio-Diversity-Project)
 <img src="images/bio-div-cover.png?raw=true"/>
 
 ---
