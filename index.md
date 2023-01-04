@@ -1,7 +1,8 @@
 ## Portfolio
+---
+[Certificate (stated in resume)](/pdf/dontesliger_certificate.pdf)
 
 ---
-
 ### Python Projects
 
 [Bio Diversity](https://github.com/CallMeDonut/Bio-Diversity-Project)
