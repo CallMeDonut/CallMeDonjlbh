@@ -1,6 +1,6 @@
 ## Portfolio
 
-[Certificate (stated in resume)](/pdf/dontesliger_certificate.pdf)
+[Certificate (stated in resume)](/dontesliger_certificate.pdf)
 
 ---
 ### Python Projects
