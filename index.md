@@ -3,6 +3,10 @@
 [Certificate (stated in resume)](/dontesliger_certificate.pdf)
 
 ---
+### [Tableau](https://public.tableau.com/app/profile/donte8785)
+<img src="images/sql-cover.png?raw=true"/>
+
+---
 ### Python Projects
 
 [Bio Diversity](https://github.com/CallMeDonut/Bio-Diversity-Project)
@@ -14,13 +18,10 @@
 
 
 ---
-### SQL Queries (Stratascratch)
-
-[View Queries](/sql_page)
+### [SQL Queries (Stratascratch)](/sql_page)
 <img src="images/sql-cover.png?raw=true"/>
 
 ---
-
 
 
 
