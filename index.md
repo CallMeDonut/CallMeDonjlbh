@@ -8,6 +8,7 @@
 
 ---
 ### [Python Projects](/sample_page)
+<img src="images/python.png?raw=true"/>
 
 ---
 ### [SQL Queries (Stratascratch)](/sql_page)
