@@ -4,7 +4,7 @@
 
 ---
 ### [Tableau](https://public.tableau.com/app/profile/donte8785)
-<img src="images/sql-cover.png?raw=true"/>
+<img src="images/tableau.png?raw=true"/>
 
 ---
 ### [Python Projects](/sample_page)
